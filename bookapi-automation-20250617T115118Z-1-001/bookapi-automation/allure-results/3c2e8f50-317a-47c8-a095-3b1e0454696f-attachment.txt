@@ -1,7 +1,0 @@
-{
-  name: 'Updated Book Title',
-  published_year: 2024,
-  book_summary: 'This is an updated book summary.',
-  id: 40,
-  author: 'Updated Author'
-}
