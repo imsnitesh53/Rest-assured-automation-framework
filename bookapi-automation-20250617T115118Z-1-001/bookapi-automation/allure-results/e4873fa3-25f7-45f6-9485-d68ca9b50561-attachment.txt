@@ -1,0 +1,7 @@
+{
+  name: 'Test Book Title',
+  published_year: 2023,
+  book_summary: 'This is a test book summary for automated testing.',
+  id: 38,
+  author: 'Test Author'
+}
